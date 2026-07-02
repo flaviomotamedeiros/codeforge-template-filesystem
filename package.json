@@ -1,0 +1,10 @@
+{
+  "name": "filesystem-simulator",
+  "version": "1.0.0",
+  "description": "Simulador de Sistema de Arquivos — template de trabalho em grupo CodeForge",
+  "main": "src/filesystem.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node tests/filesystem.test.js"
+  }
+}
